@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/LtfjUlFE">
+  <a href="https://cutt.ly/mtOdyEqv">
     <img src="https://img.shields.io/badge/Open_DuckDuckGo_AI_Pro_Guide-DE5833?style=for-the-badge&logo=duckduckgo&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(222,88,51,0.6);">
